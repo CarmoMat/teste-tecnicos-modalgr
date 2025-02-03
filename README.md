@@ -54,7 +54,7 @@ Após a finalização exibir em tela os valores de cada um dos vetores.
 
 1. Clone o repositório:
    ```bash
-   git clone 
+   git clone https://github.com/CarmoMat/teste-tecnicos-modalgr.git
    ```
 2. Navegue até a pasta do repositório e questão:
  ```bash
